@@ -32,3 +32,8 @@ Database // local mongodb for now
 
 MONGODB_URI=mongodb+srv://Beeone:Mehiläinen1@chorebeeapp.7zybru0.mongodb.net/?retryWrites=true&w=majority
 PORT=3001
+
+
+https://blog.logrocket.com/python-developers-guide-react/
+
+https://www.sitepoint.com/python-unit-testing-unittest-pytest/
