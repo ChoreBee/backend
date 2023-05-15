@@ -1,7 +1,7 @@
 
 Install requirements 
 
-- Install Git, Node.js, React
+- Install Git, Node.js, React.
 - Git bash : https://git-scm.com/downloads
 - Node.js: https://nodejs.org/en/
 
